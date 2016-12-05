@@ -849,3 +849,7 @@ Sending msg to client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a: Backgr
 Sending msg to client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - play.api.db.DefaultDBApi - Database [default] connected at jdbc:postgresql://localhost:5433/bio))
 Sending msg to client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - application - ApplicationTimer demo: Starting application at 2016-12-04T20:51:45.201Z))
 Sending msg to client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - play.api.Play - Application started (Dev)))
+Client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a closed, java.net.SocketException: Socket closed, shutting down
+Client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a thread exiting.
+Dropping message (0,ReceivedResponse()) to dead client play-fork-run-b5122a34-8a38-4386-801d-e83b73c8d88a
+Closing the 5660@win7-PC logs at Sun Dec 04 19:48:11 CST 2016, goodbye.

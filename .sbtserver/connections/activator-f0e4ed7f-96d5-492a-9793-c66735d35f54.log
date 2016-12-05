@@ -1678,3 +1678,10 @@ Sending msg to client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54: Background
 Sending msg to client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - play.api.db.DefaultDBApi - Database [default] connected at jdbc:postgresql://localhost:5433/bio))
 Sending msg to client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - application - ApplicationTimer demo: Starting application at 2016-12-04T20:51:45.201Z))
 Sending msg to client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54: BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - play.api.Play - Application started (Dev)))
+Client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54 closed, java.net.SocketException: Connection reset, shutting down
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54
+Client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54 thread exiting.
+Dropping message BackgroundJobLogEvent(1,LogMessage(info,Stopping Play fork run ...)) to dead client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54
+Dropping message BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - application - ApplicationTimer demo: Stopping application at 2016-12-05T01:48:14.526Z after 17789s.)) to dead client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54
+Dropping message BackgroundJobLogEvent(1,LogMessage(info,%PARSER_ERROR[coloredLevel] - application - Shutting down connection pool.)) to dead client activator-f0e4ed7f-96d5-492a-9793-c66735d35f54

@@ -172,3 +172,10 @@ Warning: node.js detection failed, sbt will use the Rhino based Trireme JavaScri
 Total time: 11 s, completed 04-dic-2016 14:51:35
 > server-post-command-cleanup
 > server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 5660@win7-PC logs at Sun Dec 04 19:48:11 CST 2016, goodbye.
